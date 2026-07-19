@@ -4,7 +4,7 @@
     "title": "CACOLAND",
     "cardImage": "https://raw.githubusercontent.com/Phantomqwq/PhantomArchivio/refs/heads/main/PhantomX/cards/cardassets/card1.jpg",
     "principalImage": "https://raw.githubusercontent.com/Phantomqwq/PhantomArchivio/refs/heads/main/PhantomX/cards/cardassets/p1.jpg",
-    "bannerImage": "https://github.com/Phantomqwq/PhantomArchivio/blob/main/PhantomX/cards/cardassets/bnr1.png?raw=true",
+    "bannerImage": "https://raw.githubusercontent.com/Phantomqwq/PhantomArchivio/refs/heads/main/PhantomX/cards/cardassets/bnr1.png",
     "description": "Texto que se muestra en ABOUT...",
     "mcVersion": "1.20.1",
     "forgeVersion": "47.4.0",
