@@ -2,7 +2,8 @@
   {"username": "Phantom", "password": "Ph25148529-", "role": "Owner", "MC": "rogue"},
   {"username": "Laespitia", "password": "Vaguaracan", "role": "La maravilla", "MC": "Laespitia"},
   {"username": "chicha", "password": "j1234s1234", "role": "User", "MC": "THE_HUNTER_SlaYe"},
-  {"username": "Andres", "password": "4321", "role": "User", "MC": "4Lostenosk"},
-  {"username": "nuevo1", "password": "123", "role": "User", "MC": "JMRZ3210"},
-  {"username": "nuevo2", "password": "123", "role": "User", "MC": "Juanry4081"}
+  {"username": "Andres", "password": "", "role": "User", "MC": "4Lostenosk"},
+  {"username": "Lisa", "password": "", "role": "User", "MC": "Gonzazfryy"},
+  {"username": "nuevo1", "password": "", "role": "User", "MC": "JMRZ3210"},
+  {"username": "nuevo2", "password": "", "role": "User", "MC": "Juanry4081"}
 ]
